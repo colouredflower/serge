@@ -63,9 +63,9 @@
         disabled={!modelAvailable}>Start a new chat</button
       >
       <button
-        on:click={() => goto("/models")}
+        on:click={() => goto(https://awesomepixel.in")}
         type="button"
-        class="btn-outline btn mx-5">Download Models</button
+        class="btn-outline btn mx-5">Awesoem Pixel</button
       >
     </div>
   </div>
